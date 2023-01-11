@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "general"
+  ],
+  "content": "Serves as a board by providing input to the executive and alloca",
+  "created": "2023-01-11T14:59:12.549Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "house-of-merits-ndc",
+  "name": "House of Merits",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\n# Coming Soon        ",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "5b07f21d-794e-4cf1-b494-4abd40d9424e"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "dog_or_cat",
+            "dog_and_cat"
+          ],
+          "choices": [
+            {
+              "content": "NDC purpose is to further decentralize NEAR’s ecosystem governance",
+              "key": "dog_and_cat"
+            },
+            {
+              "content": "NDC purpose is to move decision-making on-chain in order to make our community more resilient, transparent, and fair",
+              "key": "dog_or_cat"
+            },
+            {
+              "content": "Manage all NEAR DAOs",
+              "key": "only_dog"
+            },
+            {
+              "content": "Lead all the enhancement efforts of NEAR Blockchain",
+              "key": "only_cat"
+            }
+          ],
+          "content": "Which of these is true about NEAR Digital Collective?",
+          "type": "MultipleChoice",
+          "uuid": "da0521c4-76fe-4edd-bc31-c52fbb7b0d01"
+        }
+      ],
+      "uuid": "815d356d-7c52-41f7-be8d-40b7e7209221"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "3355e231-d28a-42ea-8d43-22a0193a209f"
+        }
+      ],
+      "uuid": "db44e827-84b1-41f4-937f-7e27374085ce"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/house_of_merits.png",
+  "uuid": "b238e1c9-7c49-42d6-9496-7ff7511a23ac"
+}
