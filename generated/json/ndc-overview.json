@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "overview"
+  ],
+  "content": "Explains the purpose of NEAR Digital Collective",
+  "created": "2022-10-08T12:43:41.687Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "ndc-overview",
+  "name": "NDC Overview",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\n# Coming Soon        ",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "43466513-eb1a-4741-b982-876f7f883a95"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "A",
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "NDC purpose is to further decentralize NEAR’s ecosystem governance",
+              "key": "A"
+            },
+            {
+              "content": "NDC purpose is to move decision-making on-chain in order to make our community more resilient, transparent, and fair",
+              "key": "B"
+            },
+            {
+              "content": "Manage all NEAR DAOs",
+              "key": "C"
+            },
+            {
+              "content": "Lead all the enhancement efforts of NEAR Blockchain",
+              "key": "D"
+            }
+          ],
+          "content": "Which of these is true about NEAR Digital Collective?",
+          "type": "MultipleChoice",
+          "uuid": "781cd323-a355-4fb1-8b3f-8467e9cda3bf"
+        }
+      ],
+      "uuid": "a34bc247-55d1-4938-97d5-f63541525afd"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "f5c2cff1-fbfd-4f05-93c4-7372be855acd"
+        }
+      ],
+      "uuid": "176564f2-25d0-436f-9833-3cdc77e319e5"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_ndc_overview.png",
+  "uuid": "153cd082-2641-45e1-93b4-22c80b003d2c"
+}
