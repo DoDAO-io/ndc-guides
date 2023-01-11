@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "governance"
+  ],
+  "content": "The rules to with NEAR Digital Collective abides",
+  "created": "2023-01-11T14:54:46.690Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "constitution-ndc",
+  "name": "Constitution",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\n# Coming Soon        ",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "ce15d3f9-930f-4c8d-9fa0-e9be8849b40f"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "dog_or_cat",
+            "dog_and_cat"
+          ],
+          "choices": [
+            {
+              "content": "NDC purpose is to further decentralize NEAR’s ecosystem governance",
+              "key": "dog_and_cat"
+            },
+            {
+              "content": "NDC purpose is to move decision-making on-chain in order to make our community more resilient, transparent, and fair",
+              "key": "dog_or_cat"
+            },
+            {
+              "content": "Manage all NEAR DAOs",
+              "key": "only_dog"
+            },
+            {
+              "content": "Lead all the enhancement efforts of NEAR Blockchain",
+              "key": "only_cat"
+            }
+          ],
+          "content": "Which of these is true about NEAR Digital Collective?",
+          "type": "MultipleChoice",
+          "uuid": "1e26eab5-611e-438a-bf52-870347b9bc38"
+        }
+      ],
+      "uuid": "b49f7e6b-f025-474c-944b-c6176e76bc01"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "a88c85e6-5e9e-49ef-9252-5ceb7f3788cf"
+        }
+      ],
+      "uuid": "d9f1a886-c7a7-4475-8d8a-6ab682e68d70"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_constitution.png",
+  "uuid": "6105232c-a59c-4623-9314-1e663d708e2f"
+}
