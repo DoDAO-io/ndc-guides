@@ -3,7 +3,7 @@
     "community"
   ],
   "content": "Explains the rules around Elections and Stake weighted Voting",
-  "created": "2023-01-16T15:35:32.506Z",
+  "created": "2023-01-16T15:35:48.550Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -16,14 +16,7 @@
     {
       "content": "# Coming soon        ",
       "name": "Introduction",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "72f9163b-87e7-4ceb-8e54-881a4d7701ee"
-        }
-      ],
+      "stepItems": [],
       "uuid": "043dd226-c2f2-4688-b04b-ffab3d5993f8"
     },
     {
@@ -41,5 +34,5 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_voting.png",
-  "uuid": "d4e560f9-7e18-4271-becd-bce552dd3498"
+  "uuid": "elections-and-voting-ndc"
 }
