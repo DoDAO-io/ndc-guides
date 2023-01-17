@@ -1,7 +1,7 @@
 categories:
   - governance
-content: Explains the roles and responsibilities of  Transparency Comissi
-created: '2023-01-16T15:33:57.308Z'
+content: Explains roles and responsibilities of  Transparency Comission
+created: '2023-01-17T09:43:22.718Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
@@ -25,4 +25,4 @@ steps:
         uuid: 9b5f084a-e90a-4069-b928-e9278c183bcb
     uuid: 378e3f8a-291a-4ea1-ab60-dd02aed84fb7
 thumbnail: https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_transparency.png
-uuid: 59850428-9131-4ab7-afa7-5a3587779c06
+uuid: transparency-commission-ndc
