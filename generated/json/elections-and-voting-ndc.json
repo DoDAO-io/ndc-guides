@@ -3,14 +3,14 @@
     "community"
   ],
   "content": "Explains the rules around Elections and Stake weighted Voting",
-  "created": "2023-01-23T20:53:27.100Z",
+  "created": "2023-01-23T20:54:00.891Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
   "guideType": "course",
   "key": "elections-and-voting-ndc",
   "name": "Elections and Voting",
-  "publishStatus": "Live",
+  "publishStatus": "Draft",
   "showIncorrectOnCompletion": true,
   "steps": [
     {
