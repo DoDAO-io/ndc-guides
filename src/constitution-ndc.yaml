@@ -1,13 +1,13 @@
 categories:
   - governance
 content: The rules to with NEAR Digital Collective abides
-created: '2023-01-11T14:54:46.690Z'
+created: '2023-01-23T20:58:40.837Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
 key: constitution-ndc
 name: Constitution
-publishStatus: Live
+publishStatus: Draft
 showIncorrectOnCompletion: true
 steps:
   - content: |-
@@ -46,4 +46,4 @@ steps:
         uuid: a88c85e6-5e9e-49ef-9252-5ceb7f3788cf
     uuid: d9f1a886-c7a7-4475-8d8a-6ab682e68d70
 thumbnail: https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_constitution.png
-uuid: 6105232c-a59c-4623-9314-1e663d708e2f
+uuid: constitution-ndc
