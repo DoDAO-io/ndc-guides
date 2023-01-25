@@ -1,7 +1,7 @@
 categories:
   - overview
 content: Explains the purpose of NEAR Digital Collective
-created: '2023-01-17T10:24:50.541Z'
+created: '2023-01-25T23:36:40.741Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -10,6 +10,28 @@ name: NDC Overview
 publishStatus: Live
 showIncorrectOnCompletion: true
 steps:
+  - content: >-
+      ### What is the NEAR Digital Collective?
+
+
+      The NEAR Digital Collective (NDC) is an ambitious project that brings
+      together users, projects, stakeholders and partners of the NEAR ecosystem
+      to create a radically new way of governing itself.  
+
+
+      By creating a framework that allows any member of the network to have a
+      say in how NEAR is run, the NDC’s goal is to combine transparency,
+      collective decision making, evolving governance models and
+      self-determination in a completely new way.  
+
+
+      The NDC plans on doing this by helping to create the [NEAR
+      Constitution](https://gov.near.org/t/near-constitution-v1-feedback-requested/30729),
+      a unifying document that enshrines the ideas of self-governance and
+      decentralization into the core of how the NEAR ecosystem works.
+    name: What is the NDC?
+    stepItems: []
+    uuid: 17fe792b-0d44-4dc4-a373-7100c063f5cb
   - content: >
 
       ### What is the NEAR Digital Collective?
