@@ -1,7 +1,7 @@
 categories:
   - overview
 content: Explains the purpose of NEAR Digital Collective
-created: '2023-01-25T23:42:24.337Z'
+created: '2023-01-25T23:45:12.306Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -99,6 +99,61 @@ steps:
     stepItems: []
     uuid: 2ab42473-d855-4e6a-ab3f-7d0dc4765dc9
   - content: >
+      ### What is the scope of the NDC? 
+
+
+      While the constitution and governance models are key, the NDC will also
+      help to shape, define and deliver the following: 
+
+
+      1. NEAR Constitution. 
+
+      2. Create and deploy Local and global on-chain decision-making. 
+
+      3. Create and deploy a repository of local and global on-chain journals,
+      logs, and minutes. 
+
+      4. Establish governing bodies, their operations, powers, and what checks
+      and balances each one needs.
+
+      5. Create and maintain a community treasury with a complete set of
+      operating procedures and safeguards.  
+
+      6. Create and maintain Community Guidelines, Code of Conduct, and Dispute
+      Resolution protocols. 
+
+      7. Create and deploy a communications strategy to ensure the work carried
+      out by the NDC and GWG is easy to access. 
+
+      8. A strategy to help the community find, access and use the NDC. 
+
+      9. Help develop and deploy a DAO Governance Model
+
+      10. Facilitate growth of the NEAR ecosystem more broadly.
+
+
+      ### What role does the NEAR Foundation play in the NDC? 
+
+
+      The Foundation is a partner and contributor to the NDC. It supports the
+      work being carried out by the Collective, and will ultimately look to hand
+      over its funding role to the community once it is ready to do so. 
+
+
+      ### Who is working on NEAR Digital Collective? 
+
+
+      The Collective is made up for members of the NEAR ecosystem. Some are
+      former members of the Foundation, others are founders of projects, and
+      others still are long term users and supporters of the blockchain and the
+      projects that are built on it. 
+
+
+      Feel free to reach out to any of the team leads, here. 
+    name: NDC Scope and Objectives
+    stepItems: []
+    uuid: 9544cf08-d6bb-4f48-8399-aea0b0bd6541
+  - content: >
 
       ### What is the NEAR Digital Collective?
 
@@ -183,61 +238,6 @@ steps:
     name: Introduction
     stepItems: []
     uuid: 43466513-eb1a-4741-b982-876f7f883a95
-  - content: >
-      ### What is the scope of the NDC? 
-
-
-      While the constitution and governance models are key, the NDC will also
-      help to shape, define and deliver the following: 
-
-
-      1. NEAR Constitution. 
-
-      2. Create and deploy Local and global on-chain decision-making. 
-
-      3. Create and deploy a repository of local and global on-chain journals,
-      logs, and minutes. 
-
-      4. Establish governing bodies, their operations, powers, and what checks
-      and balances each one needs.
-
-      5. Create and maintain a community treasury with a complete set of
-      operating procedures and safeguards.  
-
-      6. Create and maintain Community Guidelines, Code of Conduct, and Dispute
-      Resolution protocols. 
-
-      7. Create and deploy a communications strategy to ensure the work carried
-      out by the NDC and GWG is easy to access. 
-
-      8. A strategy to help the community find, access and use the NDC. 
-
-      9. Help develop and deploy a DAO Governance Model
-
-      10. Facilitate growth of the NEAR ecosystem more broadly.
-
-
-      ### What role does the NEAR Foundation play in the NDC? 
-
-
-      The Foundation is a partner and contributor to the NDC. It supports the
-      work being carried out by the Collective, and will ultimately look to hand
-      over its funding role to the community once it is ready to do so. 
-
-
-      ### Who is working on NEAR Digital Collective? 
-
-
-      The Collective is made up for members of the NEAR ecosystem. Some are
-      former members of the Foundation, others are founders of projects, and
-      others still are long term users and supporters of the blockchain and the
-      projects that are built on it. 
-
-
-      Feel free to reach out to any of the team leads, here. 
-    name: Scope
-    stepItems: []
-    uuid: 9544cf08-d6bb-4f48-8399-aea0b0bd6541
   - content: ''
     name: ' Evaluation'
     stepItems:
