@@ -1,7 +1,7 @@
 categories:
   - overview
 content: Explains the purpose of NEAR Digital Collective
-created: '2023-01-25T23:36:40.741Z'
+created: '2023-01-25T23:41:00.393Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -32,6 +32,35 @@ steps:
     name: What is the NDC?
     stepItems: []
     uuid: 17fe792b-0d44-4dc4-a373-7100c063f5cb
+  - content: >-
+      ### Why is this important? 
+
+      The NEAR ecosystem is made up of over 1,000 projects, regional hubs,
+      funding nodes, infrastructure providers, and more than 20 million wallets.
+      That’s a lot of people. The NDC was established to help all those involved
+      take an active role in how NEAR evolves. 
+
+
+      Whether that’s how funding is allocated, how elections take place, or who
+      represents the mosaic of interests that make up this thriving and diverse
+      ecosystem. The NDC wants to help everyone have a voice, and for those
+      voices to be recorded on chain.   
+
+      How does it do that? 
+
+
+      The NDC is helping develop a system of governance. Once in place, it will
+      allow people to vote on a wide variety of issues, elect members to
+      different governing councils, and even make amendments to the constitution
+      itself.
+
+
+      The essence of the NDC brings this radical framework to life, and allows
+      the community to then engage and take part in actively shaping the future
+      of NEAR.
+    name: Why NDC?
+    stepItems: []
+    uuid: 4cb438b5-33bf-48d2-ae4b-42bf4eb8f7eb
   - content: >
 
       ### What is the NEAR Digital Collective?
