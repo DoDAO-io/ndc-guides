@@ -3,7 +3,7 @@
     "overview"
   ],
   "content": "Explains the purpose of NEAR Digital Collective",
-  "created": "2023-01-25T23:45:12.306Z",
+  "created": "2023-01-25T23:49:54.287Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -32,7 +32,7 @@
       "uuid": "2ab42473-d855-4e6a-ab3f-7d0dc4765dc9"
     },
     {
-      "content": "### What is the scope of the NDC? \n\nWhile the constitution and governance models are key, the NDC will also help to shape, define and deliver the following: \n\n1. NEAR Constitution. \n2. Create and deploy Local and global on-chain decision-making. \n3. Create and deploy a repository of local and global on-chain journals, logs, and minutes. \n4. Establish governing bodies, their operations, powers, and what checks and balances each one needs.\n5. Create and maintain a community treasury with a complete set of operating procedures and safeguards.  \n6. Create and maintain Community Guidelines, Code of Conduct, and Dispute Resolution protocols. \n7. Create and deploy a communications strategy to ensure the work carried out by the NDC and GWG is easy to access. \n8. A strategy to help the community find, access and use the NDC. \n9. Help develop and deploy a DAO Governance Model\n10. Facilitate growth of the NEAR ecosystem more broadly.\n\n### What role does the NEAR Foundation play in the NDC? \n\nThe Foundation is a partner and contributor to the NDC. It supports the work being carried out by the Collective, and will ultimately look to hand over its funding role to the community once it is ready to do so. \n\n### Who is working on NEAR Digital Collective? \n\nThe Collective is made up for members of the NEAR ecosystem. Some are former members of the Foundation, others are founders of projects, and others still are long term users and supporters of the blockchain and the projects that are built on it. \n\nFeel free to reach out to any of the team leads, here. \n",
+      "content": "### What is the scope of the NDC? \n\nWhile the constitution and governance models are key, the NDC will also help to shape, define and deliver the following: \n\n1. NEAR Constitution. \n2. Create and deploy Local and global on-chain decision-making. \n3. Create and deploy a repository of local and global on-chain journals, logs, and minutes. \n4. Establish governing bodies, their operations, powers, and what checks and balances each one needs.\n5. Create and maintain a community treasury with a complete set of operating procedures and safeguards.  \n6. Create and maintain Community Guidelines, Code of Conduct, and Dispute Resolution protocols. \n7. Create and deploy a communications strategy to ensure the work carried out by the NDC and GWG is easy to access. \n8. A strategy to help the community find, access and use the NDC. \n9. Help develop and deploy a DAO Governance Model\n10. Facilitate growth of the NEAR ecosystem more broadly. \n",
       "name": "NDC Scope and Objectives",
       "stepItems": [],
       "uuid": "9544cf08-d6bb-4f48-8399-aea0b0bd6541"
