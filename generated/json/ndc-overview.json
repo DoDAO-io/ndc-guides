@@ -3,7 +3,7 @@
     "overview"
   ],
   "content": "Explains the purpose of NEAR Digital Collective",
-  "created": "2023-01-27T14:07:17.788Z",
+  "created": "2023-01-27T14:08:16.909Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -229,7 +229,7 @@
               "key": "D"
             }
           ],
-          "content": "Which of these is true about NEAR Digital Collective?",
+          "content": "Which of these is true about NEAR Digital Collective? (there may be more than one correct answer)",
           "type": "MultipleChoice",
           "uuid": "781cd323-a355-4fb1-8b3f-8467e9cda3bf"
         }
