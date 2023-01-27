@@ -1,7 +1,7 @@
 categories:
   - overview
 content: Explains the purpose of NEAR Digital Collective
-created: '2023-01-27T13:55:05.907Z'
+created: '2023-01-27T13:58:30.381Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -237,6 +237,22 @@ steps:
     name: NDC and the NEAR Foundation
     stepItems: []
     uuid: c58a25d5-c3c2-4183-b94a-a2c19096b8ef
+  - content: ''
+    name: Quick Question
+    stepItems:
+      - answerKeys:
+          - a258df3a
+        choices:
+          - content: 'True'
+            key: a258df3a
+          - content: 'False'
+            key: 419ef14c
+        content: >-
+          True or False: Once the community is ready, the NEAR Foundation will
+          hand over its funding role to the NDC.
+        type: MultipleChoice
+        uuid: 6e8d54eb-3722-4282-9bf7-be060f9338b0
+    uuid: 2efa9790-cfb7-4145-a679-f5e32a68ba97
   - content: ''
     name: ' Evaluation'
     stepItems:
