@@ -3,7 +3,7 @@
     "overview"
   ],
   "content": "Explains the purpose of NEAR Digital Collective",
-  "created": "2023-01-27T13:46:03.928Z",
+  "created": "2023-01-27T13:47:00.769Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -100,7 +100,7 @@
       "uuid": "c082e4d4-2302-43f8-bd5f-54cd17e452f4"
     },
     {
-      "content": "In its current stage, the NDC is working on a governance structure that includes the following sections\n1. Voting Body - This is every active near account, as qualified by the governance framework\n2. House of Merit - A group of experienced community members appointed by members of the ecosystem to represent them during votes and key decisions. \n3. Council of Advisors - Advisors appointed to help shape the direction of the House of Merit.\n4. Transparency Commission - members of the community appointed to ensure checks and balances, are in place and upheld. \n5. Community Treasury - Members of the House of Merit with support from the Council of Advisors help facilitate voting on how community funds are allocated. \n\nYou can find more information on the above \n[here.](https://gov.near.org/t/near-constitution-v1-feedback-requested/30729)\n\nThis is a work in progress, and is currently overseen by the [Governance Working Group (GWG)](https://thewiki.near.page/gwg). This is a collection of community members working on refining the models of governance that will help everyone have their say.  \n\nThe Collective and the GWG invites anyone to share and discuss ideas.",
+      "content": "In its current stage, the NDC is working on a governance structure that includes the following sections:\n1. Voting Body - This is every active near account, as qualified by the governance framework\n2. House of Merit - A group of experienced community members appointed by members of the ecosystem to represent them during votes and key decisions. \n3. Council of Advisors - Advisors appointed to help shape the direction of the House of Merit.\n4. Transparency Commission - members of the community appointed to ensure checks and balances, are in place and upheld. \n5. Community Treasury - Members of the House of Merit with support from the Council of Advisors help facilitate voting on how community funds are allocated. \n\nYou can find more information on the above \n[here.](https://gov.near.org/t/near-constitution-v1-feedback-requested/30729)\n\nThis is a work in progress, and is currently overseen by the [Governance Working Group (GWG)](https://thewiki.near.page/gwg). This is a collection of community members working on refining the models of governance that will help everyone have their say.  \n\nThe Collective and the GWG invites anyone to share and discuss ideas.",
       "name": "Governance Structure",
       "stepItems": [],
       "uuid": "2ab42473-d855-4e6a-ab3f-7d0dc4765dc9"
@@ -163,6 +163,12 @@
         }
       ],
       "uuid": "176564f2-25d0-436f-9833-3cdc77e319e5"
+    },
+    {
+      "content": "",
+      "name": "Step 10",
+      "stepItems": [],
+      "uuid": "89b0abae-b366-464b-a8ef-7241f91bef65"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_ndc_overview.png",

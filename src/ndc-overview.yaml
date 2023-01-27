@@ -1,7 +1,7 @@
 categories:
   - overview
 content: Explains the purpose of NEAR Digital Collective
-created: '2023-01-27T13:46:03.928Z'
+created: '2023-01-27T13:47:00.769Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -107,7 +107,7 @@ steps:
     uuid: c082e4d4-2302-43f8-bd5f-54cd17e452f4
   - content: >-
       In its current stage, the NDC is working on a governance structure that
-      includes the following sections
+      includes the following sections:
 
       1. Voting Body - This is every active near account, as qualified by the
       governance framework
@@ -228,5 +228,9 @@ steps:
         type: PublicShortInput
         uuid: f5c2cff1-fbfd-4f05-93c4-7372be855acd
     uuid: 176564f2-25d0-436f-9833-3cdc77e319e5
+  - content: ''
+    name: Step 10
+    stepItems: []
+    uuid: 89b0abae-b366-464b-a8ef-7241f91bef65
 thumbnail: https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_ndc_overview.png
 uuid: ndc-overview
