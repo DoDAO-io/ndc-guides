@@ -3,7 +3,7 @@
     "overview"
   ],
   "content": "Explains the purpose of NEAR Digital Collective",
-  "created": "2023-01-27T12:45:17.039Z",
+  "created": "2023-01-27T12:50:32.427Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -61,6 +61,43 @@
       "name": "Why NDC?",
       "stepItems": [],
       "uuid": "4cb438b5-33bf-48d2-ae4b-42bf4eb8f7eb"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "df96677e"
+          ],
+          "choices": [
+            {
+              "content": "give an active role to any NEAR user in the evolution of the ecosystem.",
+              "key": "b6f004d3"
+            },
+            {
+              "content": "develop a system of governance.",
+              "key": "a3e70793"
+            },
+            {
+              "content": "allow the community to take part in shaping the future of NEAR.",
+              "key": "0fcfcc09"
+            },
+            {
+              "content": "allow people to vote on issues, elect members to governing councils, and record those voices on chain.",
+              "key": "4d3e1f12"
+            },
+            {
+              "content": "all of the above.",
+              "key": "df96677e"
+            }
+          ],
+          "content": "The NDC was established to ________",
+          "type": "MultipleChoice",
+          "uuid": "d0c79dc0-e18e-4daf-b872-977905aaea5a"
+        }
+      ],
+      "uuid": "c082e4d4-2302-43f8-bd5f-54cd17e452f4"
     },
     {
       "content": "In its current stage, the NDC is working on a governance structure that includes the following sections\n1. Voting Body - This is every active near account, as qualified by the governance framework\n2. House of Merit - A group of experienced community members appointed by members of the ecosystem to represent them during votes and key decisions. \n3. Council of Advisors - Advisors appointed to help shape the direction of the House of Merit.\nTransparency Commission - members of the community appointed to ensure checks and balances, are in place and upheld. \n4. Community Treasury - Members of the House of Merit with support from the Council of Advisors help facilitate voting on how community funds are allocated. \n\nYou can find more information on the above \n[here.](https://gov.near.org/t/near-constitution-v1-feedback-requested/30729)\n\nThis is a work in progress, and is currently overseen by the [Governance Working Group (GWG)](https://thewiki.near.page/gwg). This is a collection of community members working on refining the models of governance that will help everyone have their say.  \n\nThe Collective and the GWG invites anyone to share and discuss ideas.",
