@@ -1,7 +1,7 @@
 categories:
   - overview
 content: Explains the purpose of NEAR Digital Collective
-created: '2023-01-27T13:47:00.769Z'
+created: '2023-01-27T13:50:20.888Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -142,6 +142,28 @@ steps:
     name: Governance Structure
     stepItems: []
     uuid: 2ab42473-d855-4e6a-ab3f-7d0dc4765dc9
+  - content: ''
+    name: Quick Question
+    stepItems:
+      - answerKeys:
+          - 196071db
+        choices:
+          - content: >-
+              Chamber of the House, Parliament of Blockchains, Voting Body,
+              Validator Nodes
+            key: 893bbca7
+          - content: >-
+              Transparency Commission, Meritocracy Department, Rule of Law,
+              Secretary of the Treasury
+            key: 688b1f19
+          - content: >-
+              Voting Body, House of Merit, Council of Advisors, Transparency
+              Commission, Community Treasury
+            key: 196071db
+        content: What sections are part of NDC's governance structure?
+        type: MultipleChoice
+        uuid: 73397cfe-ab03-434c-aa0f-041b3ed6400c
+    uuid: 89b0abae-b366-464b-a8ef-7241f91bef65
   - content: >
       ### What is the scope of the NDC? 
 
@@ -229,8 +251,8 @@ steps:
         uuid: f5c2cff1-fbfd-4f05-93c4-7372be855acd
     uuid: 176564f2-25d0-436f-9833-3cdc77e319e5
   - content: ''
-    name: Step 10
+    name: Step 11
     stepItems: []
-    uuid: 89b0abae-b366-464b-a8ef-7241f91bef65
+    uuid: 28c4a4b6-e792-475d-a910-83e0e5207c11
 thumbnail: https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_ndc_overview.png
 uuid: ndc-overview

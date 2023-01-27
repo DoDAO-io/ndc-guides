@@ -3,7 +3,7 @@
     "overview"
   ],
   "content": "Explains the purpose of NEAR Digital Collective",
-  "created": "2023-01-27T13:47:00.769Z",
+  "created": "2023-01-27T13:50:20.888Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -106,6 +106,35 @@
       "uuid": "2ab42473-d855-4e6a-ab3f-7d0dc4765dc9"
     },
     {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "196071db"
+          ],
+          "choices": [
+            {
+              "content": "Chamber of the House, Parliament of Blockchains, Voting Body, Validator Nodes",
+              "key": "893bbca7"
+            },
+            {
+              "content": "Transparency Commission, Meritocracy Department, Rule of Law, Secretary of the Treasury",
+              "key": "688b1f19"
+            },
+            {
+              "content": "Voting Body, House of Merit, Council of Advisors, Transparency Commission, Community Treasury",
+              "key": "196071db"
+            }
+          ],
+          "content": "What sections are part of NDC's governance structure?",
+          "type": "MultipleChoice",
+          "uuid": "73397cfe-ab03-434c-aa0f-041b3ed6400c"
+        }
+      ],
+      "uuid": "89b0abae-b366-464b-a8ef-7241f91bef65"
+    },
+    {
       "content": "### What is the scope of the NDC? \n\nWhile the constitution and governance models are key, the NDC will also help to shape, define and deliver the following: \n\n1. NEAR Constitution. \n2. Create and deploy Local and global on-chain decision-making. \n3. Create and deploy a repository of local and global on-chain journals, logs, and minutes. \n4. Establish governing bodies, their operations, powers, and what checks and balances each one needs.\n5. Create and maintain a community treasury with a complete set of operating procedures and safeguards.  \n6. Create and maintain Community Guidelines, Code of Conduct, and Dispute Resolution protocols. \n7. Create and deploy a communications strategy to ensure the work carried out by the NDC and GWG is easy to access. \n8. A strategy to help the community find, access and use the NDC. \n9. Help develop and deploy a DAO Governance Model\n10. Facilitate growth of the NEAR ecosystem more broadly. \n",
       "name": "NDC Scope and Objectives",
       "stepItems": [],
@@ -166,9 +195,9 @@
     },
     {
       "content": "",
-      "name": "Step 10",
+      "name": "Step 11",
       "stepItems": [],
-      "uuid": "89b0abae-b366-464b-a8ef-7241f91bef65"
+      "uuid": "28c4a4b6-e792-475d-a910-83e0e5207c11"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_ndc_overview.png",
