@@ -1,7 +1,7 @@
 categories:
   - overview
 content: Explains the purpose of NEAR Digital Collective
-created: '2023-01-25T23:51:40.467Z'
+created: '2023-01-27T12:45:17.039Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -32,6 +32,26 @@ steps:
     name: What is the NDC?
     stepItems: []
     uuid: 17fe792b-0d44-4dc4-a373-7100c063f5cb
+  - content: ''
+    name: Quick Question
+    stepItems:
+      - answerKeys:
+          - 69e17f87
+        choices:
+          - content: collective decision-making
+            key: 6ece3cc9
+          - content: transparency
+            key: 7269173a
+          - content: self-determination
+            key: dd497b0b
+          - content: evolving governance models
+            key: f83a9981
+          - content: all of the above
+            key: 69e17f87
+        content: The NDC values _______
+        type: MultipleChoice
+        uuid: 26c50b69-da0a-4c86-a7c1-ed0e1b489f59
+    uuid: 0c5a98c1-7a03-4952-a98e-3650f9e9667d
   - content: >-
       ### Why is this important? 
 

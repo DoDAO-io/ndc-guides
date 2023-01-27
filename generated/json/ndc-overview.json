@@ -3,7 +3,7 @@
     "overview"
   ],
   "content": "Explains the purpose of NEAR Digital Collective",
-  "created": "2023-01-25T23:51:40.467Z",
+  "created": "2023-01-27T12:45:17.039Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -18,6 +18,43 @@
       "name": "What is the NDC?",
       "stepItems": [],
       "uuid": "17fe792b-0d44-4dc4-a373-7100c063f5cb"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "69e17f87"
+          ],
+          "choices": [
+            {
+              "content": "collective decision-making",
+              "key": "6ece3cc9"
+            },
+            {
+              "content": "transparency",
+              "key": "7269173a"
+            },
+            {
+              "content": "self-determination",
+              "key": "dd497b0b"
+            },
+            {
+              "content": "evolving governance models",
+              "key": "f83a9981"
+            },
+            {
+              "content": "all of the above",
+              "key": "69e17f87"
+            }
+          ],
+          "content": "The NDC values _______",
+          "type": "MultipleChoice",
+          "uuid": "26c50b69-da0a-4c86-a7c1-ed0e1b489f59"
+        }
+      ],
+      "uuid": "0c5a98c1-7a03-4952-a98e-3650f9e9667d"
     },
     {
       "content": "### Why is this important? \nThe NEAR ecosystem is made up of over 1,000 projects, regional hubs, funding nodes, infrastructure providers, and more than 20 million wallets. That’s a lot of people. The NDC was established to help all those involved take an active role in how NEAR evolves. \n\nWhether that’s how funding is allocated, how elections take place, or who represents the mosaic of interests that make up this thriving and diverse ecosystem. The NDC wants to help everyone have a voice, and for those voices to be recorded on chain.   \nHow does it do that? \n\nThe NDC is helping develop a system of governance. Once in place, it will allow people to vote on a wide variety of issues, elect members to different governing councils, and even make amendments to the constitution itself.\n\nThe essence of the NDC brings this radical framework to life, and allows the community to then engage and take part in actively shaping the future of NEAR.",
