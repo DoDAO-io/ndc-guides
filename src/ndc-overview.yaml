@@ -1,7 +1,7 @@
 categories:
   - overview
 content: Explains the purpose of NEAR Digital Collective
-created: '2023-01-27T13:58:30.381Z'
+created: '2023-01-27T14:00:38.513Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -253,6 +253,41 @@ steps:
         type: MultipleChoice
         uuid: 6e8d54eb-3722-4282-9bf7-be060f9338b0
     uuid: 2efa9790-cfb7-4145-a679-f5e32a68ba97
+  - content: >-
+      Why is Decentralization important?
+
+      Decentralization is a term that has become synonymous with blockchain, but
+      has its origins as far back as the French Revolution in the 18th century.
+
+
+      Decentralization then, and now is the process by which the activities of
+      an organization, particularly those regarding planning and decision
+      making, are distributed or delegated away from a central, authoritative
+      location or group.
+
+
+      This is important because, as any student of history will tell you, when
+      power becomes overly centralized, the opportunity for abuse increases. In
+      2022, members of the blockchain community experienced first hand what
+      happens when centralized authorities abuse their power.
+
+
+      Members of the NEAR Community believe that the goal of decentralization is
+      to improve on what came before. It believes that increasing transparency
+      and democracy creates a fair and more equal community for everyone.
+
+
+      But to get there requires a commitment to a process. A process that will
+      need to evolve and adapt to the needs of the community, and for that
+      community to take part in shaping it.
+
+
+      Decentralization is vital for the long term health and sustainability of
+      any collection of people and ideas. The NDC is how the NEAR community is
+      trying to achieve that.
+    name: Importance of Decentralization
+    stepItems: []
+    uuid: 0b7484b2-9108-40b6-a4e6-1631abdccdc9
   - content: ''
     name: ' Evaluation'
     stepItems:
