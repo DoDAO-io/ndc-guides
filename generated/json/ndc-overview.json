@@ -3,7 +3,7 @@
     "overview"
   ],
   "content": "Explains the purpose of NEAR Digital Collective",
-  "created": "2023-01-27T13:50:20.888Z",
+  "created": "2023-01-27T13:54:31.202Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -141,6 +141,31 @@
       "uuid": "9544cf08-d6bb-4f48-8399-aea0b0bd6541"
     },
     {
+      "content": "",
+      "name": "Step 11",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "a277fa8d"
+          ],
+          "choices": [
+            {
+              "content": "False",
+              "key": "a277fa8d"
+            },
+            {
+              "content": "True",
+              "key": "d910b79f"
+            }
+          ],
+          "content": "True or false: The NDC has a limited scope and is simply trying to make a few specific improvements on NEAR.",
+          "type": "MultipleChoice",
+          "uuid": "10c09d8e-b7e4-4080-b83c-e30bc823f7c1"
+        }
+      ],
+      "uuid": "28c4a4b6-e792-475d-a910-83e0e5207c11"
+    },
+    {
       "content": "### What role does the NEAR Foundation play in the NDC? \n\nThe Foundation is a partner and contributor to the NDC. It supports the work being carried out by the Collective, and will ultimately look to hand over its funding role to the community once it is ready to do so. \n\n### Who is working on NEAR Digital Collective? \n\nThe Collective is made up for members of the NEAR ecosystem. Some are former members of the Foundation, others are founders of projects, and others still are long term users and supporters of the blockchain and the projects that are built on it. \n\nFeel free to reach out to any of the team leads, here.",
       "name": "NDC and the NEAR Foundation",
       "stepItems": [],
@@ -192,12 +217,6 @@
         }
       ],
       "uuid": "176564f2-25d0-436f-9833-3cdc77e319e5"
-    },
-    {
-      "content": "",
-      "name": "Step 11",
-      "stepItems": [],
-      "uuid": "28c4a4b6-e792-475d-a910-83e0e5207c11"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_ndc_overview.png",
