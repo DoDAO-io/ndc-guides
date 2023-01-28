@@ -1,7 +1,7 @@
 categories:
   - overview
 content: Explains the purpose of NEAR Digital Collective
-created: '2023-01-28T13:26:58.311Z'
+created: '2023-01-28T13:44:37.367Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -288,6 +288,28 @@ steps:
     name: Importance of Decentralization
     stepItems: []
     uuid: 0b7484b2-9108-40b6-a4e6-1631abdccdc9
+  - content: ''
+    name: Final Question
+    stepItems:
+      - answerKeys:
+          - 46f249b0
+        choices:
+          - content: Prevents abuse from centralized power structures.
+            key: 73dc3380
+          - content: >-
+              Increases transparency and the chance for healthy democratic
+              institutions.
+            key: 1f8746bf
+          - content: Indicates commitment to a long-term sustainable process.
+            key: d159222f
+          - content: Allows the community to shape the future of governance.
+            key: 01d4c563
+          - content: All of the above!  Wow, decentralization IS pretty important.
+            key: 46f249b0
+        content: Why is Decentralization Important?
+        type: MultipleChoice
+        uuid: 301030b6-9144-4e56-82d3-e99f81b649e0
+    uuid: 3997ea0a-bf98-4fd1-bbf8-0a11f99f645f
   - content: ''
     name: ' Evaluation'
     stepItems:
