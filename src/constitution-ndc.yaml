@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T04:09:46.823Z'
+created: '2023-02-15T04:26:43.995Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -179,7 +179,7 @@ steps:
       charged with passing proposals that deploy the treasury.
 
 
-      - A Council of Advisors - this a supervisory body made up of community
+      - A Council of Advisors - this is a supervisory body made up of community
       members that have the power to veto proposals being looked at by the House
       of Merit. 
 
@@ -192,7 +192,17 @@ steps:
     uuid: 05130ac2-efcd-42a3-a84b-366bda5f040d
   - content: ''
     name: Quick Question
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - 9388ea38
+        choices:
+          - content: 'True'
+            key: 9388ea38
+          - content: 'False'
+            key: a40f933e
+        content: The NDC looks after the Community Treasury.
+        type: MultipleChoice
+        uuid: e20e1f38-b7f2-43b5-a81d-c93498216652
     uuid: 9d9c095d-91be-48c6-a452-78120f955cc2
   - content: >-
       NDC Governance is an elected body designed to govern the Community
