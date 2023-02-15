@@ -3,7 +3,7 @@
     "governance"
   ],
   "content": "The rules to with NEAR Digital Collective abides",
-  "created": "2023-01-23T20:58:40.837Z",
+  "created": "2023-02-15T02:41:37.734Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -55,10 +55,10 @@
     },
     {
       "content": "",
-      "name": "Your Info",
+      "name": "Enter Account ID (.near)",
       "stepItems": [
         {
-          "label": "Nickname",
+          "label": "abc.near (example)",
           "required": true,
           "type": "PublicShortInput",
           "uuid": "a88c85e6-5e9e-49ef-9252-5ceb7f3788cf"
