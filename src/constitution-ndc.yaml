@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T03:38:06.138Z'
+created: '2023-02-15T03:42:18.795Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -25,6 +25,10 @@ steps:
     name: What is the NDC Constitution I
     stepItems: []
     uuid: ce15d3f9-930f-4c8d-9fa0-e9be8849b40f
+  - content: ''
+    name: Quick Question
+    stepItems: []
+    uuid: f4e5ae4a-266b-4aac-bbd5-5a199d9ea53b
   - content: >
       The foundation of this governance is the NDC Constitution. A constitution
       is, at its simplest, a collection of fundamental principles that an
@@ -42,6 +46,10 @@ steps:
     name: What is the NDC Constitution II
     stepItems: []
     uuid: d6e617bf-fd12-42f9-9e53-6824872b2a97
+  - content: ''
+    name: Quick Question
+    stepItems: []
+    uuid: bf083612-275e-4942-a267-34bc00b2bb2c
   - content: >-
       The core principles form the cornerstone of the NDC’s commitment to the
       community. The NDC governance you see referenced below is a catch all term
@@ -64,6 +72,10 @@ steps:
     name: Core Principles I
     stepItems: []
     uuid: 73bdbbcb-fea3-4459-96c6-dfaa954aead3
+  - content: ''
+    name: Quick Question
+    stepItems: []
+    uuid: 20b20b3e-3d58-4cc0-becd-28969ee5ae3b
   - content: >-
       Ecosystem First - NDC Governance Is to prioritise the success of the NEAR
       Ecosystem above any individual’s interest. The NEAR Ecosystem is a
@@ -85,6 +97,10 @@ steps:
     name: Core Principles II
     stepItems: []
     uuid: 8b93aadd-7026-4fb4-957c-17ab4615adc1
+  - content: ''
+    name: Quick Question
+    stepItems: []
+    uuid: 3b6bed5c-00d6-4a52-9df4-d3276fa7f7c8
   - content: |-
       1. NEAR Digital Collective
       2. NDC Governance
@@ -118,24 +134,40 @@ steps:
     name: NEAR Digital Collective
     stepItems: []
     uuid: 05130ac2-efcd-42a3-a84b-366bda5f040d
+  - content: ''
+    name: Quick Question
+    stepItems: []
+    uuid: 9d9c095d-91be-48c6-a452-78120f955cc2
   - content: >-
       NDC Governance is an elected body designed to govern the Community
       Treasury. Members of the Governance Body are elected by the Voting Body.
     name: NDC Governance
     stepItems: []
     uuid: c6c1f1c3-bba5-4b0c-b668-68811f5dd840
+  - content: ''
+    name: Quick Question
+    stepItems: []
+    uuid: ae7adcb8-712b-4e17-862c-6a7053adbbe2
   - content: >-
       The Voting Body is every NEAR account designated as a voting account,
       which is any wallet that has taken part in a vote.
     name: Voting Body
     stepItems: []
     uuid: 5177489c-61ec-4531-96f9-f8dd4e21b9ea
+  - content: ''
+    name: Quick Question
+    stepItems: []
+    uuid: 7e564d5a-d588-4320-b2e9-aaeceecf6083
   - content: >-
       The Community Treasury exists to provide grants and other disbursements in
       strict accordance with the strategic direction set by the Governance Body.
     name: Community Treasury
     stepItems: []
     uuid: 0d48e95d-25d6-4421-849e-5e67d37b633e
+  - content: ''
+    name: Quick Question
+    stepItems: []
+    uuid: 85617fa3-6dba-4a71-a5b7-0e1c6f820f5e
   - content: >
       The Constitution is a living document. That means it will adapt and change
       to the needs of the community. But in order to meet those needs, it needs
@@ -155,6 +187,10 @@ steps:
     name: Changing the Constitution
     stepItems: []
     uuid: 8c2cf469-e10e-49dc-b6db-077f43f72e97
+  - content: ''
+    name: Quick Question
+    stepItems: []
+    uuid: bb2c0600-f3ba-46d4-a41f-8b8eda88ca95
   - content: >
       As we mentioned at the beginning of this exploration of the Constitution,
       this is where we are now in terms of creating this foundation for how
@@ -170,27 +206,6 @@ steps:
     stepItems: []
     uuid: 9df83375-b960-49b0-a2a9-1851b7bacf7e
   - content: ''
-    name: Evaluation
-    stepItems:
-      - answerKeys:
-          - dog_or_cat
-          - dog_and_cat
-        choices:
-          - content: NDC purpose is to further decentralize NEAR’s ecosystem governance
-            key: dog_and_cat
-          - content: >-
-              NDC purpose is to move decision-making on-chain in order to make
-              our community more resilient, transparent, and fair
-            key: dog_or_cat
-          - content: Manage all NEAR DAOs
-            key: only_dog
-          - content: Lead all the enhancement efforts of NEAR Blockchain
-            key: only_cat
-        content: Which of these is true about NEAR Digital Collective?
-        type: MultipleChoice
-        uuid: 1e26eab5-611e-438a-bf52-870347b9bc38
-    uuid: b49f7e6b-f025-474c-944b-c6176e76bc01
-  - content: ''
     name: Enter Account ID (.near)
     stepItems:
       - label: abc.near (example)
@@ -198,41 +213,5 @@ steps:
         type: PublicShortInput
         uuid: a88c85e6-5e9e-49ef-9252-5ceb7f3788cf
     uuid: d9f1a886-c7a7-4475-8d8a-6ab682e68d70
-  - content: ''
-    name: Quick Question
-    stepItems: []
-    uuid: f4e5ae4a-266b-4aac-bbd5-5a199d9ea53b
-  - content: ''
-    name: Quick Question
-    stepItems: []
-    uuid: bf083612-275e-4942-a267-34bc00b2bb2c
-  - content: ''
-    name: Quick Question
-    stepItems: []
-    uuid: 20b20b3e-3d58-4cc0-becd-28969ee5ae3b
-  - content: ''
-    name: Quick Question
-    stepItems: []
-    uuid: 3b6bed5c-00d6-4a52-9df4-d3276fa7f7c8
-  - content: ''
-    name: Quick Question
-    stepItems: []
-    uuid: 9d9c095d-91be-48c6-a452-78120f955cc2
-  - content: ''
-    name: Quick Question
-    stepItems: []
-    uuid: ae7adcb8-712b-4e17-862c-6a7053adbbe2
-  - content: ''
-    name: Quick Question
-    stepItems: []
-    uuid: 7e564d5a-d588-4320-b2e9-aaeceecf6083
-  - content: ''
-    name: Quick Question
-    stepItems: []
-    uuid: 85617fa3-6dba-4a71-a5b7-0e1c6f820f5e
-  - content: ''
-    name: Quick Question
-    stepItems: []
-    uuid: bb2c0600-f3ba-46d4-a41f-8b8eda88ca95
 thumbnail: https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_constitution.png
 uuid: constitution-ndc
