@@ -3,7 +3,7 @@
     "governance"
   ],
   "content": "The foundation of NDC governance",
-  "created": "2023-02-15T02:56:35.333Z",
+  "created": "2023-02-15T03:00:45.668Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -24,6 +24,18 @@
       "name": "What is the NDC Constitution II",
       "stepItems": [],
       "uuid": "d6e617bf-fd12-42f9-9e53-6824872b2a97"
+    },
+    {
+      "content": "The core principles form the cornerstone of the NDC’s commitment to the community. The NDC governance you see referenced below is a catch all term for the people working to bring the NDC to life. \n\nFreedom from Censorship - NDC Governance Shall not infringe upon the rights of the individual or collective concerning freedom of speech or participation.\n\nNon-Infringement - NDC Governance shall not infringe upon the interests, decisions, and governance choices of dApps, protocols, and creative works built and operating within the NEAR Ecosystem.\n\nNon-Partiality - NDC Governance Shall not display unfair advantage, preferential treatment, undue influence, or partiality to any specific project, entity or group (“nodes”).",
+      "name": "Core Principles I",
+      "stepItems": [],
+      "uuid": "73bdbbcb-fea3-4459-96c6-dfaa954aead3"
+    },
+    {
+      "content": "Ecosystem First - NDC Governance Is to prioritise the success of the NEAR Ecosystem above any individual’s interest. The NEAR Ecosystem is a collective and as such, it is always treated as more important than any one person, regardless of their influence.\n\nDeclaration of Conflict of Interest - Any individual or member participating in the NDC Governance Of the NDC is to disclose relevant conflicts of interest, when announcing their candidacy for a position in a governance body, and prior to assuming their position in the governance structure.\n\nTransparent Decision-Making - Transparency is the key to establishing trust between all stakeholders, and as such the Governance body commits to a collaborative and transparent approach in all governance decisions, so as to drive accountability and foster trust.",
+      "name": "Core Principles II",
+      "stepItems": [],
+      "uuid": "8b93aadd-7026-4fb4-957c-17ab4615adc1"
     },
     {
       "content": "",
