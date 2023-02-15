@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T02:50:24.975Z'
+created: '2023-02-15T02:51:25.608Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -14,7 +14,7 @@ steps:
 
       # 
           
-    name: What is the NDC Constitution
+    name: What is the NDC Constitution P
     stepItems: []
     uuid: ce15d3f9-930f-4c8d-9fa0-e9be8849b40f
   - content: ''
