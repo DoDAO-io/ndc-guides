@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T03:15:24.017Z'
+created: '2023-02-15T03:16:43.511Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -101,16 +101,18 @@ steps:
 
 
       In the first version of the NDC, decisions are delegated and managed by
-      three separate institutions: 
+      three separate institutions:
+       
+      - A House of Merit - this consists of 15 members from the ecosystem
+      charged with passing proposals that deploy the treasury.
 
-      A House of Merit - this consists of 15 members from the ecosystem charged
-      with passing proposals that deploy the treasury.
 
-      A Council of Advisors - this a supervisory body made up of community
+      - A Council of Advisors - this a supervisory body made up of community
       members that have the power to veto proposals being looked at by the House
       of Merit. 
 
-      Transparency Commission - The Commission is charged with ensuring the
+
+      - Transparency Commission - The Commission is charged with ensuring the
       integrity of all the houses, and ensures funds are allocated for their
       stated purposes.
     name: NEAR Digital Collective
