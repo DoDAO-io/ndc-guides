@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T02:52:31.245Z'
+created: '2023-02-15T02:54:15.501Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -17,12 +17,10 @@ steps:
       to create a radically new way of governing itself. The NDC is not an
       entity, or DAO, it is a framework for self-governance.
 
-
       To achieve this goal, the NDC is on a journey to create a governance model
       that allows it to serve the needs of the community. As a result,
       governance will go through a number of iterations as the project grows,
       and the needs of the ecosystem change.
-          
     name: What is the NDC Constitution I
     stepItems: []
     uuid: ce15d3f9-930f-4c8d-9fa0-e9be8849b40f
