@@ -3,7 +3,7 @@
     "governance"
   ],
   "content": "The foundation of NDC governance",
-  "created": "2023-02-15T03:26:09.590Z",
+  "created": "2023-02-15T03:38:06.138Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -125,6 +125,60 @@
         }
       ],
       "uuid": "d9f1a886-c7a7-4475-8d8a-6ab682e68d70"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [],
+      "uuid": "f4e5ae4a-266b-4aac-bbd5-5a199d9ea53b"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [],
+      "uuid": "bf083612-275e-4942-a267-34bc00b2bb2c"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [],
+      "uuid": "20b20b3e-3d58-4cc0-becd-28969ee5ae3b"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [],
+      "uuid": "3b6bed5c-00d6-4a52-9df4-d3276fa7f7c8"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [],
+      "uuid": "9d9c095d-91be-48c6-a452-78120f955cc2"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [],
+      "uuid": "ae7adcb8-712b-4e17-862c-6a7053adbbe2"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [],
+      "uuid": "7e564d5a-d588-4320-b2e9-aaeceecf6083"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [],
+      "uuid": "85617fa3-6dba-4a71-a5b7-0e1c6f820f5e"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [],
+      "uuid": "bb2c0600-f3ba-46d4-a41f-8b8eda88ca95"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_constitution.png",
