@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T04:03:55.311Z'
+created: '2023-02-15T04:09:46.823Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -132,7 +132,30 @@ steps:
     uuid: 8b93aadd-7026-4fb4-957c-17ab4615adc1
   - content: ''
     name: Quick Question
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - 9caf25a9
+          - 9165bd75
+          - 09a43123
+          - e8435eb1
+          - dda4685b
+          - '63727208'
+        choices:
+          - content: Ecosystem first
+            key: 9caf25a9
+          - content: Declaration of conflict of interest
+            key: 9165bd75
+          - content: Transparent decision-making
+            key: 09a43123
+          - content: Non-partiality
+            key: e8435eb1
+          - content: Non-infringement
+            key: dda4685b
+          - content: Freedom from censorship
+            key: '63727208'
+        content: 'NDC''s core principles include (check all that apply): '
+        type: MultipleChoice
+        uuid: b7433187-b52d-462b-bd95-72217910a9c6
     uuid: 3b6bed5c-00d6-4a52-9df4-d3276fa7f7c8
   - content: |-
       1. NEAR Digital Collective
