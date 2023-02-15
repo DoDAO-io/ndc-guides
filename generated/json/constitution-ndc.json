@@ -3,7 +3,7 @@
     "governance"
   ],
   "content": "The foundation of NDC governance",
-  "created": "2023-02-15T04:29:56.704Z",
+  "created": "2023-02-15T04:51:51.798Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -202,22 +202,10 @@
       "uuid": "c6c1f1c3-bba5-4b0c-b668-68811f5dd840"
     },
     {
-      "content": "",
-      "name": "Quick Question",
-      "stepItems": [],
-      "uuid": "ae7adcb8-712b-4e17-862c-6a7053adbbe2"
-    },
-    {
       "content": "The Voting Body is every NEAR account designated as a voting account, which is any wallet that has taken part in a vote.",
       "name": "Voting Body",
       "stepItems": [],
       "uuid": "5177489c-61ec-4531-96f9-f8dd4e21b9ea"
-    },
-    {
-      "content": "",
-      "name": "Quick Question",
-      "stepItems": [],
-      "uuid": "7e564d5a-d588-4320-b2e9-aaeceecf6083"
     },
     {
       "content": "The Community Treasury exists to provide grants and other disbursements in strict accordance with the strategic direction set by the Governance Body.",
@@ -226,13 +214,7 @@
       "uuid": "0d48e95d-25d6-4421-849e-5e67d37b633e"
     },
     {
-      "content": "",
-      "name": "Quick Question",
-      "stepItems": [],
-      "uuid": "85617fa3-6dba-4a71-a5b7-0e1c6f820f5e"
-    },
-    {
-      "content": "The Constitution is a living document. That means it will adapt and change to the needs of the community. But in order to meet those needs, it needs a process by which change can take place.  \n\nThere are two key ways amendments can be submitted:\nA proposal is created by the House of Merit, and passed through the Council of Advisors for assessment. \nA proposal is put forward by the voting body, and is voted on by more than 50% of the voting body in favour of the changes. \n\nFormal changes are then made in the next Congress.\n",
+      "content": "The Constitution is a living document. That means it will adapt and change to the needs of the community. But in order to meet those needs, it needs a process by which change can take place.  \n\nThere are two key ways amendments can be submitted:\nA proposal is created by the House of Merit, and passed through the Council of Advisors for assessment. \nA proposal is put forward by the Voting Body, and is voted on by more than 50% of the Voting Body in favour of the changes. \n\nFormal changes are then made in the next Congress.\n",
       "name": "Changing the Constitution",
       "stepItems": [],
       "uuid": "8c2cf469-e10e-49dc-b6db-077f43f72e97"
@@ -240,7 +222,26 @@
     {
       "content": "",
       "name": "Quick Question",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "cb50cf9f"
+          ],
+          "choices": [
+            {
+              "content": "True",
+              "key": "cb50cf9f"
+            },
+            {
+              "content": "False",
+              "key": "de847254"
+            }
+          ],
+          "content": "The Constitution provides a way for amendments to be made to the governance framework.",
+          "type": "MultipleChoice",
+          "uuid": "bbd9b944-c7f9-4a82-b35b-1d945ee1d7ea"
+        }
+      ],
       "uuid": "bb2c0600-f3ba-46d4-a41f-8b8eda88ca95"
     },
     {
