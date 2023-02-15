@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T03:00:45.668Z'
+created: '2023-02-15T03:08:09.392Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -114,5 +114,13 @@ steps:
         type: PublicShortInput
         uuid: a88c85e6-5e9e-49ef-9252-5ceb7f3788cf
     uuid: d9f1a886-c7a7-4475-8d8a-6ab682e68d70
+  - content: |-
+      1. NEAR Digital Collective
+      2. NDC Governance
+      3. Voting Body
+      4. Community Treasury
+    name: Key Parts - NDC Constitution
+    stepItems: []
+    uuid: 8fc5546c-d429-4381-9b0a-eccbd9b20c7d
 thumbnail: https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_constitution.png
 uuid: constitution-ndc
