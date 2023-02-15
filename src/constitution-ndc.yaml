@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T03:21:02.177Z'
+created: '2023-02-15T03:23:25.235Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -136,6 +136,25 @@ steps:
     name: Community Treasury
     stepItems: []
     uuid: 0d48e95d-25d6-4421-849e-5e67d37b633e
+  - content: >
+      The Constitution is a living document. That means it will adapt and change
+      to the needs of the community. But in order to meet those needs, it needs
+      a process by which change can take place.  
+
+
+      There are two key ways amendments can be submitted:
+
+      A proposal is created by the House of Merit, and passed through the
+      Council of Advisors for assessment. 
+
+      A proposal is put forward by the voting body, and is voted on by more than
+      50% of the voting body in favour of the changes. 
+
+
+      Formal changes are then made in the next Congress.
+    name: Changing the Constitution
+    stepItems: []
+    uuid: 8c2cf469-e10e-49dc-b6db-077f43f72e97
   - content: ''
     name: Evaluation
     stepItems:
