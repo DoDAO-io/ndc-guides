@@ -3,7 +3,7 @@
     "governance"
   ],
   "content": "The foundation of NDC governance",
-  "created": "2023-02-15T03:08:09.392Z",
+  "created": "2023-02-15T03:15:24.017Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -36,6 +36,18 @@
       "name": "Core Principles II",
       "stepItems": [],
       "uuid": "8b93aadd-7026-4fb4-957c-17ab4615adc1"
+    },
+    {
+      "content": "1. NEAR Digital Collective\n2. NDC Governance\n3. Voting Body\n4. Community Treasury",
+      "name": "Key Parts - NDC Constitution",
+      "stepItems": [],
+      "uuid": "8fc5546c-d429-4381-9b0a-eccbd9b20c7d"
+    },
+    {
+      "content": "The NDC refers to the governance framework that looks after the Community Treasury. This framework is designed to ensure allocating funds and budgeting for the development of the ecosystem is done in an open, transparent, and secure way.\n\nIn the first version of the NDC, decisions are delegated and managed by three separate institutions: \nA House of Merit - this consists of 15 members from the ecosystem charged with passing proposals that deploy the treasury.\nA Council of Advisors - this a supervisory body made up of community members that have the power to veto proposals being looked at by the House of Merit. \nTransparency Commission - The Commission is charged with ensuring the integrity of all the houses, and ensures funds are allocated for their stated purposes.\n",
+      "name": "NEAR Digital Collective",
+      "stepItems": [],
+      "uuid": "05130ac2-efcd-42a3-a84b-366bda5f040d"
     },
     {
       "content": "",
@@ -83,12 +95,6 @@
         }
       ],
       "uuid": "d9f1a886-c7a7-4475-8d8a-6ab682e68d70"
-    },
-    {
-      "content": "1. NEAR Digital Collective\n2. NDC Governance\n3. Voting Body\n4. Community Treasury",
-      "name": "Key Parts - NDC Constitution",
-      "stepItems": [],
-      "uuid": "8fc5546c-d429-4381-9b0a-eccbd9b20c7d"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_constitution.png",
