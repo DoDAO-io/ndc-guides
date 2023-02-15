@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T04:01:56.063Z'
+created: '2023-02-15T04:03:55.311Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -95,7 +95,19 @@ steps:
     uuid: 73bdbbcb-fea3-4459-96c6-dfaa954aead3
   - content: ''
     name: Quick Question
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - 7e0f0a85
+        choices:
+          - content: 'True'
+            key: 7e0f0a85
+          - content: 'False'
+            key: f1782145
+        content: >-
+          NDC Governance is currently defined as the people working to bring the
+          NDC to life.
+        type: MultipleChoice
+        uuid: 91217ee5-0823-4ab4-a404-2981b359b375
     uuid: 20b20b3e-3d58-4cc0-becd-28969ee5ae3b
   - content: >-
       Ecosystem First - NDC Governance Is to prioritise the success of the NEAR
