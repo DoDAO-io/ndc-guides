@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T04:51:51.798Z'
+created: '2023-02-15T19:59:11.817Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -257,7 +257,7 @@ steps:
         type: MultipleChoice
         uuid: bbd9b944-c7f9-4a82-b35b-1d945ee1d7ea
     uuid: bb2c0600-f3ba-46d4-a41f-8b8eda88ca95
-  - content: >
+  - content: >-
       As we mentioned at the beginning of this exploration of the Constitution,
       this is where we are now in terms of creating this foundation for how
       things will progress. 
@@ -267,7 +267,8 @@ steps:
       when it needs to. 
 
 
-      To read the full version of the Constitution, you can find it here.
+      To read the full version of the Constitution, you can find it
+      [https://docs.google.com/document/d/1u3e4G1TKCkgi9B5wm_ueUKJEd5jYK66C0iDWqfstCCU/edit?usp=sharing]().
     name: This is the Beginning
     stepItems: []
     uuid: 9df83375-b960-49b0-a2a9-1851b7bacf7e
