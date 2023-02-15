@@ -3,7 +3,7 @@
     "governance"
   ],
   "content": "The foundation of NDC governance",
-  "created": "2023-02-15T02:54:15.501Z",
+  "created": "2023-02-15T02:55:56.542Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -18,6 +18,12 @@
       "name": "What is the NDC Constitution I",
       "stepItems": [],
       "uuid": "ce15d3f9-930f-4c8d-9fa0-e9be8849b40f"
+    },
+    {
+      "content": "The foundation of this governance is the NDC Constitution. A constitution is, at its simplest, a collection of fundamental principles that an organisation or entity agrees to work by. Think of it as a rule book, and in that rule book are descriptions of the main institutions that make up this organisation, and the relationship between them. \n\nBelow we’re going to explore one of the first drafts of the NDC Constitution. \n\nAt present, this isn’t fixed in stone, but shows the direction the NDC hopes to travel in once the constitution is finalised and live.\n",
+      "name": "What is the NDC Constitution II",
+      "stepItems": [],
+      "uuid": "d6e617bf-fd12-42f9-9e53-6824872b2a97"
     },
     {
       "content": "",
