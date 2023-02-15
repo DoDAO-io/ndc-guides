@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T03:23:25.235Z'
+created: '2023-02-15T03:26:09.590Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -155,6 +155,20 @@ steps:
     name: Changing the Constitution
     stepItems: []
     uuid: 8c2cf469-e10e-49dc-b6db-077f43f72e97
+  - content: >
+      As we mentioned at the beginning of this exploration of the Constitution,
+      this is where we are now in terms of creating this foundation for how
+      things will progress. 
+
+
+      The Constitution will adapt in time to the needs of the Community, as and
+      when it needs to. 
+
+
+      To read the full version of the Constitution, you can find it here.
+    name: This is the Beginning
+    stepItems: []
+    uuid: 9df83375-b960-49b0-a2a9-1851b7bacf7e
   - content: ''
     name: Evaluation
     stepItems:
