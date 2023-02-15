@@ -3,7 +3,7 @@
     "governance"
   ],
   "content": "The foundation of NDC governance",
-  "created": "2023-02-15T03:16:43.511Z",
+  "created": "2023-02-15T03:21:02.177Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -48,6 +48,24 @@
       "name": "NEAR Digital Collective",
       "stepItems": [],
       "uuid": "05130ac2-efcd-42a3-a84b-366bda5f040d"
+    },
+    {
+      "content": "NDC Governance is an elected body designed to govern the Community Treasury. Members of the Governance Body are elected by the Voting Body.",
+      "name": "NDC Governance",
+      "stepItems": [],
+      "uuid": "c6c1f1c3-bba5-4b0c-b668-68811f5dd840"
+    },
+    {
+      "content": "The Voting Body is every NEAR account designated as a voting account, which is any wallet that has taken part in a vote.",
+      "name": "Voting Body",
+      "stepItems": [],
+      "uuid": "5177489c-61ec-4531-96f9-f8dd4e21b9ea"
+    },
+    {
+      "content": "The Community Treasury exists to provide grants and other disbursements in strict accordance with the strategic direction set by the Governance Body.",
+      "name": "Community Treasury",
+      "stepItems": [],
+      "uuid": "0d48e95d-25d6-4421-849e-5e67d37b633e"
     },
     {
       "content": "",
