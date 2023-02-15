@@ -3,7 +3,7 @@
     "overview"
   ],
   "content": "Explains the purpose of NEAR Digital Collective",
-  "created": "2023-01-28T13:44:37.367Z",
+  "created": "2023-02-15T02:27:22.692Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -275,10 +275,10 @@
     },
     {
       "content": "",
-      "name": "Your Info",
+      "name": "Enter Account ID",
       "stepItems": [
         {
-          "label": "Nickname",
+          "label": ".near",
           "required": true,
           "type": "PublicShortInput",
           "uuid": "f5c2cff1-fbfd-4f05-93c4-7372be855acd"

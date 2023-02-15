@@ -1,7 +1,7 @@
 categories:
   - overview
 content: Explains the purpose of NEAR Digital Collective
-created: '2023-01-28T13:44:37.367Z'
+created: '2023-02-15T02:27:22.692Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -334,9 +334,9 @@ steps:
         uuid: 781cd323-a355-4fb1-8b3f-8467e9cda3bf
     uuid: a34bc247-55d1-4938-97d5-f63541525afd
   - content: ''
-    name: Your Info
+    name: Enter Account ID
     stepItems:
-      - label: Nickname
+      - label: .near
         required: true
         type: PublicShortInput
         uuid: f5c2cff1-fbfd-4f05-93c4-7372be855acd
