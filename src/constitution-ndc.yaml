@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T03:47:09.572Z'
+created: '2023-02-15T04:01:56.063Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -35,9 +35,8 @@ steps:
             key: 219627fc
           - content: 'False'
             key: 2c6fe013
-        content: |-
+        content: |
           The NDC governance framework will remain the same for years to come.
-          True or False
         type: MultipleChoice
         uuid: 54cfea2a-c9c1-4c3e-ad93-3de2e8254f9d
     uuid: f4e5ae4a-266b-4aac-bbd5-5a199d9ea53b
@@ -60,7 +59,17 @@ steps:
     uuid: d6e617bf-fd12-42f9-9e53-6824872b2a97
   - content: ''
     name: Quick Question
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - 4e996e02
+        choices:
+          - content: 'True'
+            key: 5b8ad8ac
+          - content: 'False'
+            key: 4e996e02
+        content: The foundation of governance is the DAO.
+        type: MultipleChoice
+        uuid: ecb54209-6ba5-4ec0-b789-90385e9c58f7
     uuid: bf083612-275e-4942-a267-34bc00b2bb2c
   - content: >-
       The core principles form the cornerstone of the NDC’s commitment to the

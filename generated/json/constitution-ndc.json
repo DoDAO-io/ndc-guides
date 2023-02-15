@@ -3,7 +3,7 @@
     "governance"
   ],
   "content": "The foundation of NDC governance",
-  "created": "2023-02-15T03:47:09.572Z",
+  "created": "2023-02-15T04:01:56.063Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -37,7 +37,7 @@
               "key": "2c6fe013"
             }
           ],
-          "content": "The NDC governance framework will remain the same for years to come.\nTrue or False",
+          "content": "The NDC governance framework will remain the same for years to come.\n",
           "type": "MultipleChoice",
           "uuid": "54cfea2a-c9c1-4c3e-ad93-3de2e8254f9d"
         }
@@ -53,7 +53,26 @@
     {
       "content": "",
       "name": "Quick Question",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "4e996e02"
+          ],
+          "choices": [
+            {
+              "content": "True",
+              "key": "5b8ad8ac"
+            },
+            {
+              "content": "False",
+              "key": "4e996e02"
+            }
+          ],
+          "content": "The foundation of governance is the DAO.",
+          "type": "MultipleChoice",
+          "uuid": "ecb54209-6ba5-4ec0-b789-90385e9c58f7"
+        }
+      ],
       "uuid": "bf083612-275e-4942-a267-34bc00b2bb2c"
     },
     {
