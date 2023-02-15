@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-15T02:56:20.882Z'
+created: '2023-02-15T02:56:35.333Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -16,6 +16,7 @@ steps:
       together users, projects, stakeholders, and partners of the NEAR ecosystem
       to create a radically new way of governing itself. The NDC is not an
       entity, or DAO, it is a framework for self-governance.
+
 
       To achieve this goal, the NDC is on a journey to create a governance model
       that allows it to serve the needs of the community. As a result,
