@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-16T19:16:35.225Z'
+created: '2023-02-16T19:18:01.130Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -29,16 +29,16 @@ steps:
     name: Quick Question
     stepItems:
       - answerKeys:
-          - 63ebd7d8
+          - ccc5530d
         choices:
           - content: 'True'
-            key: '85749370'
+            key: e0f25ba9
           - content: 'False'
-            key: 63ebd7d8
+            key: ccc5530d
         content: The NDC governance framework will remain the same for years to come.
         type: SingleChoice
-        uuid: e946063a-0766-44fb-9de6-760fa8bb9ff4
-    uuid: f4e5ae4a-266b-4aac-bbd5-5a199d9ea53b
+        uuid: b7f115b5-e91f-4443-96ea-f7e88b2fbb85
+    uuid: 5b682b48-db0e-4dd9-82a9-40513c3aa502
   - content: >
       The foundation of this governance is the NDC Constitution. A constitution
       is, at its simplest, a collection of fundamental principles that an
