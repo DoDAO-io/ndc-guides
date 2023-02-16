@@ -3,7 +3,7 @@
     "governance"
   ],
   "content": "The foundation of NDC governance",
-  "created": "2023-02-15T21:26:41.183Z",
+  "created": "2023-02-16T19:16:35.225Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -25,21 +25,21 @@
       "stepItems": [
         {
           "answerKeys": [
-            "2c6fe013"
+            "63ebd7d8"
           ],
           "choices": [
             {
               "content": "True",
-              "key": "219627fc"
+              "key": "85749370"
             },
             {
               "content": "False",
-              "key": "2c6fe013"
+              "key": "63ebd7d8"
             }
           ],
-          "content": "The NDC governance framework will remain the same for years to come.\n",
-          "type": "MultipleChoice",
-          "uuid": "54cfea2a-c9c1-4c3e-ad93-3de2e8254f9d"
+          "content": "The NDC governance framework will remain the same for years to come.",
+          "type": "SingleChoice",
+          "uuid": "e946063a-0766-44fb-9de6-760fa8bb9ff4"
         }
       ],
       "uuid": "f4e5ae4a-266b-4aac-bbd5-5a199d9ea53b"
