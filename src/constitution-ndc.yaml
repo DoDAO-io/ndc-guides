@@ -1,7 +1,7 @@
 categories:
   - governance
 content: The foundation of NDC governance
-created: '2023-02-16T19:18:01.130Z'
+created: '2023-02-16T19:50:21.125Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -178,14 +178,14 @@ steps:
       charged with passing proposals that deploy the treasury.
 
 
-      - A Council of Advisors - this is a supervisory body made up of community
-      members that have the power to veto proposals being looked at by the House
-      of Merit. 
+      - A Council of Advisors - this is a supervisory body made up of 7
+      community members that have the power to veto proposals being looked at by
+      the House of Merit. 
 
 
-      - Transparency Commission - The Commission is charged with ensuring the
-      integrity of all the houses, and ensures funds are allocated for their
-      stated purposes.
+      - Transparency Commission - The Commission is made up of 7 community
+      members and is charged with ensuring the integrity of all the houses, and
+      ensures funds are allocated for their stated purposes.
     name: NEAR Digital Collective
     stepItems: []
     uuid: 05130ac2-efcd-42a3-a84b-366bda5f040d
