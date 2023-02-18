@@ -3,14 +3,14 @@
     "governance"
   ],
   "content": "The foundation of NDC governance",
-  "created": "2023-02-16T19:50:21.125Z",
+  "created": "2023-02-18T01:12:54.241Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
   "guideType": "onboarding",
   "key": "constitution-ndc",
   "name": "Constitution",
-  "publishStatus": "Draft",
+  "publishStatus": "Live",
   "showIncorrectOnCompletion": true,
   "steps": [
     {
